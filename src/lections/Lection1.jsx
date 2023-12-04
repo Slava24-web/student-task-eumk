@@ -19,3 +19,4 @@ export const Lection1 = () => {
         </div>
     );
 };
+
