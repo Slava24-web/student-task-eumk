@@ -12,6 +12,7 @@ export const Lection1 = () => {
             <p className="form-note">Задания для самостоятельной подготовки по теме "Основы HTML"</p>
 
             <div className="form">
+                {/* eslint-disable-next-line jsx-a11y/iframe-has-title */}
                 <iframe src="https://forms.yandex.ru/u/6569f31f73cee7613e424f76/?iframe=1" frameBorder="0"
                         name="ya-form-6569f31f73cee7613e424f76" width="650">
                 </iframe>

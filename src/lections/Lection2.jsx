@@ -12,6 +12,7 @@ export const Lection2 = () => {
             <p className="form-note">Задания для самостоятельной подготовки по теме "CSS. Каскадные таблицы стилей"</p>
 
             <div className="form">
+                {/* eslint-disable-next-line jsx-a11y/iframe-has-title */}
                 <iframe src="https://forms.yandex.ru/u/656a041c69387263eb591fff/?iframe=1" frameBorder="0"
                         name="ya-form-656a041c69387263eb591fff" width="650"></iframe>
             </div>
